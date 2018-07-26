@@ -17,7 +17,7 @@ authors = ["Muhammad Sajidur Rahman"]
 publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
-publication_short = "MS Thesis"
+publication = "MS Thesis"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -26,12 +26,12 @@ abstract = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 
 
 # Links (optional).
-url_pdf = "http://krex.k-state.edu/dspace/bitstream/handle/2097/34563/MuhammadSajidurRahman2016.pdf?sequence=1&isAllowed=y"
+url_pdf = "#"
 
 # Does the content use math formatting?
 math = true
@@ -41,9 +41,9 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+#[header]
+#image = "headers/bubbles-wide.jpg"
+#caption = "My caption :smile:"
 
 +++
 

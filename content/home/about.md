@@ -7,8 +7,8 @@ date = "2016-04-20T00:00:00"
 # Order that this section will appear in.
 weight = 1
 +++
-Hi, My name is Sajidur Rahman, friends and acquaintances call me _'Sajid'_ (pronounced as 'SA-ZID'). Currently, I am working in
-[Institute for Cybersecurity Research Center at University of Florida](http://fics.institute.ufl.edu/) as a graduate research assistant. My research work intersects the following cross-cutting areas:
+Hi, My name is Sajidur Rahman, friends and acquaintances call me _'Sajid'_ (pronounced as 'SA-ZID'). I am a PhD Student and I am working in
+__Institute for Cybersecurity Research Center at University of Florida__ as a graduate research assistant. My research work intersects the following cross-cutting areas:
 <!--- Usable Security & Privacy Design - Human-Computer Interaction -->
 
 *  Usable Security & Privacy

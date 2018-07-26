@@ -1,6 +1,6 @@
-baseurl = "http://www.cise.ufl.edu/~msr/,"
+baseurl = "http://www.cise.ufl.edu/~msr/"
 # baseurl = "/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-title = "Sajid Rahman"
+title = "Sajidur Rahman"
 copyright = "&copy; 2017 Sajidur Rahman"
 theme = "academic"
 enableEmoji = true
@@ -265,10 +265,10 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+# [taxonomies]
+#   tag = "tags"
+#   category = "categories"
+#   publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
