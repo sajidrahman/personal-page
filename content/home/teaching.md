@@ -14,7 +14,7 @@ subtitle = ""
 weight = 7
 
 +++
-I worked as a teaching instructor for the following courses at Kansas State University:
+I was a teaching instructor for the following courses at Kansas State University:
 
 - CIS450: Computer Architecture and Operations (Spring'15, 16 & 17)
 - CIS200: Programming Fundamentals (using Java) (Spring'15)
