@@ -3,7 +3,7 @@ title = "An Exploratory Study of User Perceptions of Payment Methods in the UK a
 date = "2016-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["K. Krol", "Muhammad Sajidur Rahman", "S. Parkin", "E. D. Cristofaro", "E. Y. Vasserman"]
+authors = ["K. Krol", "**Muhammad Sajidur Rahman**", "S. Parkin", "E. D. Cristofaro", "E. Y. Vasserman"]
 
 # Publication type.
 # Legend:

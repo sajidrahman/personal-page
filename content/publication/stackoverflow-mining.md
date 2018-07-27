@@ -3,7 +3,7 @@ title = "An Empirical Case Study on Stack Overflow to Explore Developers’ Secu
 date = "2016-11-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Muhammad Sajidur Rahman"]
+authors = ["**Muhammad Sajidur Rahman**"]
 
 # Publication type.
 # Legend:
