@@ -14,7 +14,6 @@ subtitle = ""
 weight = 7
 
 +++
-I was a teaching instructor for the following courses at Kansas State University:
-
-- CIS450: Computer Architecture and Operations (Spring'15, 16 & 17)
-- CIS200: Programming Fundamentals (using Java) (Spring'15)
+- CIS6930: Web Application Development (University of Florida, Fall'2018)
+- CIS450: Computer Architecture and Operations (Kansas State University, Spring'15, 16 & 17)
+- CIS200: Programming Fundamentals (using Java) (Kansas State University, Spring'15)
